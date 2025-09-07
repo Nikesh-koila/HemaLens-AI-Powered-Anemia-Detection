@@ -5,7 +5,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { ArrowLeft, UploadCloud } from "lucide-react";
 import Link from "next/link";
 import React, { useCallback, useRef, useState } from "react";
-import Palmguide from "@/components/PalmGuide";
+import Palmguide from "@/components/Palmguide";
 import Footer from "@/components/Footer";
 import ImagePreview from "@/components/ImagePreview";
 import CameraCapture from "@/components/CameraCapture";
